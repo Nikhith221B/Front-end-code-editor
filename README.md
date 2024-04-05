@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## `npm i --force`
+To install the dependencies.
+
+## `npm audit fix --force`
+If any issues faced while insalling dependencies.
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
